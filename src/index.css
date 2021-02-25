@@ -1,0 +1,15 @@
+*{margin:0;padding:0;}
+li{list-style: none;}
+body{background:#000}
+.flex{display: flex;justify-content: space-between;align-items: center;}
+.App{width:600px;min-height:500px;margin:50px auto 0;background:#fff;padding:10px;}
+.container{border:1px solid #eee}
+.block_title{text-align:center;padding:15px 0;border-bottom:1px dotted #eee;font-weight:normal;color:blue}
+.block_number{padding:15px 10px;border-bottom:1px dotted #eee;}
+.block_number li p:first-child{color:blue}
+.listItem{margin:15px;border:1px solid #eee;padding:15px 10px;}
+.itemImg{width:60px;}
+.itemBtn{width:80px;height:35px;border:none;border-radius:6px;background:#02aefd;color:#fff;outline:none;}
+.itemTitle dd p:first-child{color:blue}
+.handleBtn{display:block;margin:15px auto;width:150px;height:40px;font-size:16px;background:green;color:#fff;border-radius:6px;border:none;outline:none;}
+.handleBtn.loading{background:#aaa;}
