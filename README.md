@@ -1,3 +1,6 @@
+#### 项目说明
+react + mobx 实现购物车功能
+
 #### 创建项目
 ```
 create-react-app xxx
